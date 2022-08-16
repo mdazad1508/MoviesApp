@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MoviesApp/static/css/main.1da99822.chunk.css",
+    "main.js": "/MoviesApp/static/js/main.8dab89af.chunk.js",
+    "main.js.map": "/MoviesApp/static/js/main.8dab89af.chunk.js.map",
+    "runtime-main.js": "/MoviesApp/static/js/runtime-main.a48d401e.js",
+    "runtime-main.js.map": "/MoviesApp/static/js/runtime-main.a48d401e.js.map",
+    "static/js/2.42d1fe8e.chunk.js": "/MoviesApp/static/js/2.42d1fe8e.chunk.js",
+    "static/js/2.42d1fe8e.chunk.js.map": "/MoviesApp/static/js/2.42d1fe8e.chunk.js.map",
+    "index.html": "/MoviesApp/index.html",
+    "precache-manifest.3b7b5d65d8174edd5b8e929ffb9adf54.js": "/MoviesApp/precache-manifest.3b7b5d65d8174edd5b8e929ffb9adf54.js",
+    "service-worker.js": "/MoviesApp/service-worker.js",
+    "static/css/main.1da99822.chunk.css.map": "/MoviesApp/static/css/main.1da99822.chunk.css.map",
+    "static/js/2.42d1fe8e.chunk.js.LICENSE.txt": "/MoviesApp/static/js/2.42d1fe8e.chunk.js.LICENSE.txt",
+    "static/js/main.8dab89af.chunk.js.LICENSE.txt": "/MoviesApp/static/js/main.8dab89af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a48d401e.js",
+    "static/js/2.42d1fe8e.chunk.js",
+    "static/css/main.1da99822.chunk.css",
+    "static/js/main.8dab89af.chunk.js"
+  ]
+}
